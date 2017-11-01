@@ -1,11 +1,13 @@
-# Build
+## Big Data Spark Project
+
+### Build
 To build the job run the following command:
 
 ```
 sbt package
 ```
 
-# Deploy
+### Deploy
 To deploy the job run the following command:
 
 ```
